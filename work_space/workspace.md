@@ -6,4 +6,4 @@
     - terraform workspace show # current workspace
     - terraform workspace delete <workspace-name>
 ### select specific tfvars file
-    - terraform apply -var-file=<tfvar-file-name>
+    - terraform apply -var-file=<tfvar-file-name> 
